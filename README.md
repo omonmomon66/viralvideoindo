@@ -1,2 +1,2 @@
-# viralvideo
-viralvideo
+[viralvideoindo](https://viralvideoindo.pages.dev)
+Fork the [repository](https://github.com/hormabalun) on GitHub.
